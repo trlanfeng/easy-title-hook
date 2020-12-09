@@ -1,0 +1,21 @@
+{
+  "name": "easy-title-hook",
+  "version": "0.0.1",
+  "description": "Easy to generate a title with edit or create",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "trlanfeng",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trlanfeng/easy-title-hook.git"
+  }
+}
